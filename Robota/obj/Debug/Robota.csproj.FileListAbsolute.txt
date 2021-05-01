@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Robota\Robota\bin\Debug\Robota.exe.config
+C:\Users\Asus\source\repos\Robota\Robota\bin\Debug\Robota.exe
+C:\Users\Asus\source\repos\Robota\Robota\bin\Debug\Robota.pdb
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.Properties.Resources.resources
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.RedactorData.resources
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.exe
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.pdb
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.Adminka.resources
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.Data.resources
+C:\Users\Asus\source\repos\Robota\Robota\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\Robota\Robota\obj\Debug\Robota.csproj.CopyComplete
